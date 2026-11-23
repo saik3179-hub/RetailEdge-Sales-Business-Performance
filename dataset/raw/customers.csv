@@ -1,0 +1,501 @@
+customer_id,customer_name,city,region,customer_segment
+C0001,Hegde Electricals,Bengaluru,South,Small Business
+C0002,Krishnan Logistics Pvt. Ltd.,Bengaluru,South,Corporate
+C0003,Tarun Baghel,Bhopal,Central,Consumer
+C0004,Ananya Gowda,Hyderabad,South,Consumer
+C0005,Sangeeta Varghese,Bengaluru,South,Consumer
+C0006,Ajay Bisht,Delhi,North,Consumer
+C0007,Mehta Infotech Pvt. Ltd.,Mumbai,West,Corporate
+C0008,Bhadoriya Stores,Gwalior,Central,Small Business
+C0009,Isha Patel,Mumbai,West,Consumer
+C0010,Rao Consulting Pvt. Ltd.,Coimbatore,South,Corporate
+C0011,Priya Jadhav,Surat,West,Consumer
+C0012,Vikram Jain,Bhopal,Central,Consumer
+C0013,Meera Ghosh,Ranchi,East,Consumer
+C0014,Chauhan Engineering Pvt. Ltd.,Delhi,North,Corporate
+C0015,Aarav Hegde,Hyderabad,South,Consumer
+C0016,Anil Singh,Lucknow,North,Consumer
+C0017,Deepa Parekh,Mumbai,West,Consumer
+C0018,Harish Mohanty,Patna,East,Consumer
+C0019,Kavita Gaikwad,Mumbai,West,Consumer
+C0020,Agarwal Services Pvt. Ltd.,Delhi,North,Corporate
+C0021,Meera Gowda,Coimbatore,South,Consumer
+C0022,Desai Sales Corporation,Surat,West,Small Business
+C0023,Thakkar Agencies,Nagpur,West,Small Business
+C0024,Arjun Shah,Surat,West,Consumer
+C0025,Nikhil Sinha,Kolkata,East,Consumer
+C0026,Sneha Ghosh,Ranchi,East,Consumer
+C0027,Shalini Kapoor,Jaipur,North,Consumer
+C0028,Neha Mishra,Indore,Central,Consumer
+C0029,Geeta Thakkar,Ahmedabad,West,Consumer
+C0030,Abhishek Naik,Nagpur,West,Consumer
+C0031,Gaurav Jain,Indore,Central,Consumer
+C0032,Manoj Banerjee,Patna,East,Consumer
+C0033,Nikhil Raman,Bengaluru,South,Consumer
+C0034,Hazarika Furnishers,Ranchi,East,Small Business
+C0035,Neha Chatterjee,Patna,East,Consumer
+C0036,Pranav Behera,Bhubaneswar,East,Consumer
+C0037,Geeta Agarwal,Delhi,North,Consumer
+C0038,Tomar Mart,Gwalior,Central,Small Business
+C0039,Kavita Hazarika,Bhubaneswar,East,Consumer
+C0040,Manisha Shah,Surat,West,Consumer
+C0041,Nair Traders,Hyderabad,South,Small Business
+C0042,Kapoor Stores,Delhi,North,Small Business
+C0043,Bhatia Furnishers,Delhi,North,Small Business
+C0044,Ashok Parekh,Nagpur,West,Consumer
+C0045,Sinha Agencies,Bhubaneswar,East,Small Business
+C0046,Naidu Infotech Pvt. Ltd.,Hyderabad,South,Corporate
+C0047,Bisht Electricals,Jaipur,North,Small Business
+C0048,Naidu Suppliers,Bengaluru,South,Small Business
+C0049,Ajay Roy,Kolkata,East,Consumer
+C0050,Ananya Desai,Surat,West,Consumer
+C0051,Arjun Mahato,Bhubaneswar,East,Consumer
+C0052,Das Agencies,Ranchi,East,Small Business
+C0053,Vivek Mishra,Raipur,Central,Consumer
+C0054,Pawar Solutions Pvt. Ltd.,Mumbai,West,Corporate
+C0055,Pawar Traders,Mumbai,West,Small Business
+C0056,Sunita Kulkarni,Ahmedabad,West,Consumer
+C0057,Manisha Sen,Kolkata,East,Consumer
+C0058,Subramanian Stores,Coimbatore,South,Small Business
+C0059,Shalini Balan,Hyderabad,South,Consumer
+C0060,Kavita Krishnan,Hyderabad,South,Consumer
+C0061,Sunil Joshi,Mumbai,West,Consumer
+C0062,Siddharth Shinde,Surat,West,Consumer
+C0063,Mohit Sahoo,Kolkata,East,Consumer
+C0064,Soni Enterprises,Bhopal,Central,Small Business
+C0065,Pandey Suppliers,Jabalpur,Central,Small Business
+C0066,Shah Associates,Mumbai,West,Small Business
+C0067,Lakshmi Sharma,Jaipur,North,Consumer
+C0068,Ashok Roy,Ranchi,East,Consumer
+C0069,Shinde Enterprises,Mumbai,West,Small Business
+C0070,Ananya Choudhury,Guwahati,East,Consumer
+C0071,Manoj Naik,Mumbai,West,Consumer
+C0072,Aditi Mehta,Nagpur,West,Consumer
+C0073,Mathur Infotech Pvt. Ltd.,Delhi,North,Corporate
+C0074,Amit Choudhury,Kolkata,East,Consumer
+C0075,Pranav Khanna,Delhi,North,Consumer
+C0076,Kurup Mart,Chennai,South,Small Business
+C0077,Sen Enterprises,Kolkata,East,Small Business
+C0078,Pillai Traders,Bengaluru,South,Small Business
+C0079,Swati Behera,Patna,East,Consumer
+C0080,Siddharth Mahato,Kolkata,East,Consumer
+C0081,Abhishek Kulkarni,Pune,West,Consumer
+C0082,Swati Arora,Chandigarh,North,Consumer
+C0083,Sneha Deshmukh,Pune,West,Consumer
+C0084,Khanna Electricals,Jaipur,North,Small Business
+C0085,Gaurav Iyer,Chennai,South,Consumer
+C0086,Ritu Venkatesh,Hyderabad,South,Consumer
+C0087,Shah Suppliers,Mumbai,West,Small Business
+C0088,Anil Panda,Patna,East,Consumer
+C0089,Mohit Tiwari,Delhi,North,Consumer
+C0090,Varun Rathore,Delhi,North,Consumer
+C0091,Nikhil Agrawal,Indore,Central,Consumer
+C0092,Smita Trivedi,Ahmedabad,West,Consumer
+C0093,Ashok Rao,Bengaluru,South,Consumer
+C0094,Ashok Baghel,Jabalpur,Central,Consumer
+C0095,Naveen Chatterjee,Patna,East,Consumer
+C0096,Aarav Shah,Mumbai,West,Consumer
+C0097,Venkatesh Furnishers,Bengaluru,South,Small Business
+C0098,Vandana Nair,Chennai,South,Consumer
+C0099,Manoj Rajput,Raipur,Central,Consumer
+C0100,Nair Furnishers,Bengaluru,South,Small Business
+C0101,Pillai Agencies,Chennai,South,Small Business
+C0102,Tanvi Tiwari,Dehradun,North,Consumer
+C0103,Ashok Gowda,Kochi,South,Consumer
+C0104,Kavita Khanna,Dehradun,North,Consumer
+C0105,Meera Arora,Delhi,North,Consumer
+C0106,Pranav Verma,Chandigarh,North,Consumer
+C0107,Bhatt Suppliers,Pune,West,Small Business
+C0108,Ashok Mahato,Kolkata,East,Consumer
+C0109,Aarav Kulkarni,Mumbai,West,Consumer
+C0110,Smita Gaikwad,Pune,West,Consumer
+C0111,Sunita Subramanian,Bengaluru,South,Consumer
+C0112,Varun Behera,Guwahati,East,Consumer
+C0113,Sandeep Sinha,Bhubaneswar,East,Consumer
+C0114,Tarun Sharma,Chandigarh,North,Consumer
+C0115,Isha Rathore,Delhi,North,Consumer
+C0116,Nikhil Pawar,Ahmedabad,West,Consumer
+C0117,Hazarika Electricals,Kolkata,East,Small Business
+C0118,Thakkar Engineering Pvt. Ltd.,Pune,West,Corporate
+C0119,Balan Infotech Pvt. Ltd.,Hyderabad,South,Corporate
+C0120,Prasad Mart,Kolkata,East,Small Business
+C0121,Kunal Verma,Dehradun,North,Consumer
+C0122,Mehta Stores,Ahmedabad,West,Small Business
+C0123,Meera Agarwal,Delhi,North,Consumer
+C0124,Radha Balan,Hyderabad,South,Consumer
+C0125,Bhadoriya Manufacturing Pvt. Ltd.,Jabalpur,Central,Corporate
+C0126,Bhatt Retail Ventures Pvt. Ltd.,Ahmedabad,West,Corporate
+C0127,Isha Bisht,Chandigarh,North,Consumer
+C0128,Kurup Consulting Pvt. Ltd.,Hyderabad,South,Corporate
+C0129,Nair Technologies Pvt. Ltd.,Coimbatore,South,Corporate
+C0130,Gaurav Bhatt,Ahmedabad,West,Consumer
+C0131,Isha Panda,Kolkata,East,Consumer
+C0132,Singh Retail Ventures Pvt. Ltd.,Jaipur,North,Corporate
+C0133,Krishnan Solutions Pvt. Ltd.,Bengaluru,South,Corporate
+C0134,Tanvi Tomar,Indore,Central,Consumer
+C0135,Joshi Realty Pvt. Ltd.,Pune,West,Corporate
+C0136,Prakash Mishra,Indore,Central,Consumer
+C0137,Amit Krishnan,Coimbatore,South,Consumer
+C0138,Rekha Nair,Kochi,South,Consumer
+C0139,Ashok Raman,Chennai,South,Consumer
+C0140,Swati Hazarika,Patna,East,Consumer
+C0141,Kunal Mishra,Patna,East,Consumer
+C0142,Komal Kulkarni,Ahmedabad,West,Consumer
+C0143,Gupta Manufacturing Pvt. Ltd.,Jaipur,North,Corporate
+C0144,Balan Agencies,Chennai,South,Small Business
+C0145,Aditi Mohanty,Bhubaneswar,East,Consumer
+C0146,Ajay Chourasia,Raipur,Central,Consumer
+C0147,Harish Raman,Chennai,South,Consumer
+C0148,Kulkarni Infotech Pvt. Ltd.,Ahmedabad,West,Corporate
+C0149,Prasad Suppliers,Guwahati,East,Small Business
+C0150,Ajay Das,Patna,East,Consumer
+C0151,Sandeep Jadhav,Surat,West,Consumer
+C0152,Chandran Traders,Bengaluru,South,Small Business
+C0153,Tarun Desai,Mumbai,West,Consumer
+C0154,Jha Traders,Patna,East,Small Business
+C0155,Divya Agarwal,Lucknow,North,Consumer
+C0156,Sunil Rathore,Delhi,North,Consumer
+C0157,Manoj Kamat,Ahmedabad,West,Consumer
+C0158,Mathur Engineering Pvt. Ltd.,Delhi,North,Corporate
+C0159,Sangeeta Hazarika,Ranchi,East,Consumer
+C0160,Sunita Saxena,Delhi,North,Consumer
+C0161,Mahato Associates,Ranchi,East,Small Business
+C0162,Prasad Logistics Pvt. Ltd.,Bhubaneswar,East,Corporate
+C0163,Joshi Suppliers,Nagpur,West,Small Business
+C0164,Swati Jadhav,Mumbai,West,Consumer
+C0165,Anil Mishra,Kolkata,East,Consumer
+C0166,Sandeep Soni,Bhopal,Central,Consumer
+C0167,Rekha Bhatt,Surat,West,Consumer
+C0168,Shreya Mehta,Ahmedabad,West,Consumer
+C0169,Chauhan Furnishers,Chandigarh,North,Small Business
+C0170,Sangeeta Jain,Jabalpur,Central,Consumer
+C0171,Tanvi Kamat,Ahmedabad,West,Consumer
+C0172,Pillai Electricals,Hyderabad,South,Small Business
+C0173,Reddy Suppliers,Kochi,South,Small Business
+C0174,Roy Healthcare Pvt. Ltd.,Patna,East,Corporate
+C0175,Bhatt Electricals,Ahmedabad,West,Small Business
+C0176,Vikram Trivedi,Surat,West,Consumer
+C0177,Vandana Thakkar,Nagpur,West,Consumer
+C0178,Thakkar Suppliers,Pune,West,Small Business
+C0179,Krishnan Enterprises,Kochi,South,Small Business
+C0180,Manoj Deshmukh,Mumbai,West,Consumer
+C0181,Komal Naidu,Coimbatore,South,Consumer
+C0182,Karan Krishnan,Kochi,South,Consumer
+C0183,Rekha Shukla,Bhopal,Central,Consumer
+C0184,Rekha Gaikwad,Surat,West,Consumer
+C0185,Chatterjee Solutions Pvt. Ltd.,Guwahati,East,Corporate
+C0186,Kulkarni Technologies Pvt. Ltd.,Pune,West,Corporate
+C0187,Smita Prasad,Kolkata,East,Consumer
+C0188,Sandeep Thakkar,Pune,West,Consumer
+C0189,Jadhav Healthcare Pvt. Ltd.,Ahmedabad,West,Corporate
+C0190,Shreya Khanna,Delhi,North,Consumer
+C0191,Malhotra Solutions Pvt. Ltd.,Delhi,North,Corporate
+C0192,Desai Electricals,Surat,West,Small Business
+C0193,Anil Dey,Bhubaneswar,East,Consumer
+C0194,Rahul Jadhav,Pune,West,Consumer
+C0195,Shreya Bhatia,Chandigarh,North,Consumer
+C0196,Aarav Behera,Kolkata,East,Consumer
+C0197,Menon Suppliers,Chennai,South,Small Business
+C0198,Payal Mathur,Dehradun,North,Consumer
+C0199,Tiwari Electricals,Delhi,North,Small Business
+C0200,Smita Sinha,Kolkata,East,Consumer
+C0201,Tanvi Menon,Bengaluru,South,Consumer
+C0202,Lakshmi Dwivedi,Jabalpur,Central,Consumer
+C0203,Vikram Thakur,Bhopal,Central,Consumer
+C0204,Patel Traders,Pune,West,Small Business
+C0205,Ajay Singh,Lucknow,North,Consumer
+C0206,Das Healthcare Pvt. Ltd.,Patna,East,Corporate
+C0207,Malhotra Suppliers,Delhi,North,Small Business
+C0208,Gaurav Deshmukh,Mumbai,West,Consumer
+C0209,Divya Saxena,Delhi,North,Consumer
+C0210,Dubey Stores,Gwalior,Central,Small Business
+C0211,Smita Kurup,Bengaluru,South,Consumer
+C0212,Manoj Gaikwad,Mumbai,West,Consumer
+C0213,Patil Electricals,Ahmedabad,West,Small Business
+C0214,Ajay Naidu,Bengaluru,South,Consumer
+C0215,Priya Bisht,Delhi,North,Consumer
+C0216,Gowda Agencies,Chennai,South,Small Business
+C0217,Shreya Patil,Mumbai,West,Consumer
+C0218,Das Suppliers,Kolkata,East,Small Business
+C0219,Vikram Soni,Gwalior,Central,Consumer
+C0220,Nair Realty Pvt. Ltd.,Bengaluru,South,Corporate
+C0221,Priya Deshmukh,Mumbai,West,Consumer
+C0222,Pandey Mart,Bhopal,Central,Small Business
+C0223,Singh Healthcare Pvt. Ltd.,Dehradun,North,Corporate
+C0224,Baghel Mart,Raipur,Central,Small Business
+C0225,Rajesh Venkatesh,Hyderabad,South,Consumer
+C0226,Gowda Logistics Pvt. Ltd.,Bengaluru,South,Corporate
+C0227,Deepa Menon,Hyderabad,South,Consumer
+C0228,Thakkar Mart,Mumbai,West,Small Business
+C0229,Sanjay Desai,Nagpur,West,Consumer
+C0230,Agrawal Mart,Raipur,Central,Small Business
+C0231,Sandeep Gupta,Jaipur,North,Consumer
+C0232,Chauhan Agencies,Dehradun,North,Small Business
+C0233,Mehta Healthcare Pvt. Ltd.,Mumbai,West,Corporate
+C0234,Iyer Retail Ventures Pvt. Ltd.,Bengaluru,South,Corporate
+C0235,Payal Kurup,Chennai,South,Consumer
+C0236,Isha Deshmukh,Pune,West,Consumer
+C0237,Naveen Tiwari,Bhopal,Central,Consumer
+C0238,Arjun Choudhury,Patna,East,Consumer
+C0239,Vikram Rawat,Delhi,North,Consumer
+C0240,Joshi Agencies,Nagpur,West,Small Business
+C0241,Patel Consulting Pvt. Ltd.,Pune,West,Corporate
+C0242,Hegde Mart,Coimbatore,South,Small Business
+C0243,Dubey Enterprises,Bhopal,Central,Small Business
+C0244,Anita Choudhury,Ranchi,East,Consumer
+C0245,Lakshmi Thakkar,Ahmedabad,West,Consumer
+C0246,Komal Parekh,Ahmedabad,West,Consumer
+C0247,Vikram Patel,Raipur,Central,Consumer
+C0248,Nandini Mathur,Lucknow,North,Consumer
+C0249,Sangeeta Bisht,Delhi,North,Consumer
+C0250,Priya Verma,Lucknow,North,Consumer
+C0251,Isha Khanna,Lucknow,North,Consumer
+C0252,Smita Deshmukh,Mumbai,West,Consumer
+C0253,Gaurav Patil,Mumbai,West,Consumer
+C0254,Deshmukh Solutions Pvt. Ltd.,Mumbai,West,Corporate
+C0255,Kurup Electricals,Bengaluru,South,Small Business
+C0256,Deepak Patel,Raipur,Central,Consumer
+C0257,Kulkarni Sales Corporation,Pune,West,Small Business
+C0258,Mishra Sales Corporation,Kolkata,East,Small Business
+C0259,Manisha Banerjee,Bhubaneswar,East,Consumer
+C0260,Joshi Industries Pvt. Ltd.,Nagpur,West,Corporate
+C0261,Nikhil Singh,Jaipur,North,Consumer
+C0262,Sandeep Krishnan,Hyderabad,South,Consumer
+C0263,Varghese Furnishers,Chennai,South,Small Business
+C0264,Deepak Dey,Kolkata,East,Consumer
+C0265,Isha Naidu,Bengaluru,South,Consumer
+C0266,Prakash Bhatia,Delhi,North,Consumer
+C0267,Ananya Chatterjee,Guwahati,East,Consumer
+C0268,Divya Mohanty,Bhubaneswar,East,Consumer
+C0269,Swati Rawat,Dehradun,North,Consumer
+C0270,Tiwari Mart,Jaipur,North,Small Business
+C0271,Varun Mathur,Jaipur,North,Consumer
+C0272,Manoj Balan,Chennai,South,Consumer
+C0273,Anita Jain,Indore,Central,Consumer
+C0274,Anita Pillai,Chennai,South,Consumer
+C0275,Mohit Pillai,Kochi,South,Consumer
+C0276,Ajay Arora,Chandigarh,North,Consumer
+C0277,Sangeeta Menon,Bengaluru,South,Consumer
+C0278,Deepak Arora,Lucknow,North,Consumer
+C0279,Sahoo Electricals,Patna,East,Small Business
+C0280,Deepa Kurup,Bengaluru,South,Consumer
+C0281,Naidu Agencies,Bengaluru,South,Small Business
+C0282,Krishnan Stores,Chennai,South,Small Business
+C0283,Ashok Patil,Ahmedabad,West,Consumer
+C0284,Mehta Sales Corporation,Surat,West,Small Business
+C0285,Trivedi Enterprises,Pune,West,Small Business
+C0286,Mohit Borah,Bhubaneswar,East,Consumer
+C0287,Priya Kapoor,Jaipur,North,Consumer
+C0288,Shalini Rao,Hyderabad,South,Consumer
+C0289,Rahul Mehta,Pune,West,Consumer
+C0290,Tarun Tiwari,Jaipur,North,Consumer
+C0291,Harish Verma,Delhi,North,Consumer
+C0292,Bhatt Engineering Pvt. Ltd.,Mumbai,West,Corporate
+C0293,Deepak Yadav,Lucknow,North,Consumer
+C0294,Harish Malhotra,Delhi,North,Consumer
+C0295,Kurup Agencies,Kochi,South,Small Business
+C0296,Mishra Healthcare Pvt. Ltd.,Kolkata,East,Corporate
+C0297,Jain Suppliers,Bhopal,Central,Small Business
+C0298,Rahul Mohanty,Kolkata,East,Consumer
+C0299,Patil Agencies,Nagpur,West,Small Business
+C0300,Kulkarni Stores,Nagpur,West,Small Business
+C0301,Amit Malhotra,Delhi,North,Consumer
+C0302,Mukherjee Enterprises,Kolkata,East,Small Business
+C0303,Kamat Engineering Pvt. Ltd.,Mumbai,West,Corporate
+C0304,Varghese Consulting Pvt. Ltd.,Coimbatore,South,Corporate
+C0305,Sanjay Sharma,Delhi,North,Consumer
+C0306,Neha Choudhury,Patna,East,Consumer
+C0307,Tarun Pandey,Indore,Central,Consumer
+C0308,Patel Electricals,Mumbai,West,Small Business
+C0309,Varun Jha,Kolkata,East,Consumer
+C0310,Radha Menon,Hyderabad,South,Consumer
+C0311,Arjun Mishra,Raipur,Central,Consumer
+C0312,Bhatia Mart,Chandigarh,North,Small Business
+C0313,Patil Suppliers,Mumbai,West,Small Business
+C0314,Lakshmi Raman,Hyderabad,South,Consumer
+C0315,Ghosh Engineering Pvt. Ltd.,Kolkata,East,Corporate
+C0316,Mohit Menon,Bengaluru,South,Consumer
+C0317,Arjun Agrawal,Bhopal,Central,Consumer
+C0318,Prakash Mohanty,Patna,East,Consumer
+C0319,Sinha Manufacturing Pvt. Ltd.,Kolkata,East,Corporate
+C0320,Priya Prasad,Guwahati,East,Consumer
+C0321,Rohan Bisht,Lucknow,North,Consumer
+C0322,Ajay Joshi,Pune,West,Consumer
+C0323,Arjun Sharma,Delhi,North,Consumer
+C0324,Mohit Parekh,Mumbai,West,Consumer
+C0325,Rekha Joshi,Nagpur,West,Consumer
+C0326,Naveen Kamat,Mumbai,West,Consumer
+C0327,Nair Enterprises,Coimbatore,South,Small Business
+C0328,Sunita Shetty,Chennai,South,Consumer
+C0329,Ghosh Enterprises,Guwahati,East,Small Business
+C0330,Kulkarni Realty Pvt. Ltd.,Mumbai,West,Corporate
+C0331,Naidu Engineering Pvt. Ltd.,Chennai,South,Corporate
+C0332,Komal Mahato,Guwahati,East,Consumer
+C0333,Ashok Chatterjee,Bhubaneswar,East,Consumer
+C0334,Vivek Verma,Delhi,North,Consumer
+C0335,Pawar Electricals,Mumbai,West,Small Business
+C0336,Prakash Saxena,Delhi,North,Consumer
+C0337,Banerjee Suppliers,Guwahati,East,Small Business
+C0338,Siddharth Gaikwad,Ahmedabad,West,Consumer
+C0339,Rekha Sinha,Ranchi,East,Consumer
+C0340,Radha Tomar,Bhopal,Central,Consumer
+C0341,Sandeep Dey,Guwahati,East,Consumer
+C0342,Sandeep Kamat,Nagpur,West,Consumer
+C0343,Patel Retail Ventures Pvt. Ltd.,Mumbai,West,Corporate
+C0344,Kunal Mukherjee,Patna,East,Consumer
+C0345,Hegde Stores,Hyderabad,South,Small Business
+C0346,Rajesh Subramanian,Bengaluru,South,Consumer
+C0347,Vikram Malhotra,Lucknow,North,Consumer
+C0348,Payal Singh,Chandigarh,North,Consumer
+C0349,Mohanty Electricals,Guwahati,East,Small Business
+C0350,Deepak Gupta,Jaipur,North,Consumer
+C0351,Subramanian Electricals,Coimbatore,South,Small Business
+C0352,Shah Realty Pvt. Ltd.,Surat,West,Corporate
+C0353,Sneha Rathore,Lucknow,North,Consumer
+C0354,Parekh Manufacturing Pvt. Ltd.,Ahmedabad,West,Corporate
+C0355,Khanna Agencies,Dehradun,North,Small Business
+C0356,Hazarika Associates,Patna,East,Small Business
+C0357,Deepak Mehta,Mumbai,West,Consumer
+C0358,Deepa Pawar,Ahmedabad,West,Consumer
+C0359,Tarun Kurup,Bengaluru,South,Consumer
+C0360,Suresh Thakkar,Surat,West,Consumer
+C0361,Verma Suppliers,Lucknow,North,Small Business
+C0362,Aditi Naik,Mumbai,West,Consumer
+C0363,Komal Khanna,Dehradun,North,Consumer
+C0364,Rekha Kulkarni,Mumbai,West,Consumer
+C0365,Sneha Behera,Kolkata,East,Consumer
+C0366,Chauhan Traders,Jaipur,North,Small Business
+C0367,Sunil Reddy,Bengaluru,South,Consumer
+C0368,Bisht Engineering Pvt. Ltd.,Chandigarh,North,Corporate
+C0369,Sneha Dubey,Bhopal,Central,Consumer
+C0370,Trivedi Stores,Surat,West,Small Business
+C0371,Deshmukh Enterprises,Nagpur,West,Small Business
+C0372,Rekha Arora,Delhi,North,Consumer
+C0373,Khanna Logistics Pvt. Ltd.,Jaipur,North,Corporate
+C0374,Harish Rathore,Chandigarh,North,Consumer
+C0375,Bhatt Solutions Pvt. Ltd.,Mumbai,West,Corporate
+C0376,Amit Rawat,Delhi,North,Consumer
+C0377,Nikhil Patel,Surat,West,Consumer
+C0378,Amit Joshi,Surat,West,Consumer
+C0379,Sneha Jha,Kolkata,East,Consumer
+C0380,Bhatt Industries Pvt. Ltd.,Ahmedabad,West,Corporate
+C0381,Shreya Patel,Pune,West,Consumer
+C0382,Naik Manufacturing Pvt. Ltd.,Nagpur,West,Corporate
+C0383,Khanna Associates,Delhi,North,Small Business
+C0384,Lakshmi Chandran,Hyderabad,South,Consumer
+C0385,Agrawal Enterprises,Indore,Central,Small Business
+C0386,Krishnan Sales Corporation,Bengaluru,South,Small Business
+C0387,Tarun Choudhury,Kolkata,East,Consumer
+C0388,Rekha Borah,Ranchi,East,Consumer
+C0389,Patel Solutions Pvt. Ltd.,Mumbai,West,Corporate
+C0390,Rahul Gowda,Chennai,South,Consumer
+C0391,Kapoor Traders,Lucknow,North,Small Business
+C0392,Geeta Naik,Mumbai,West,Consumer
+C0393,Reddy Associates,Chennai,South,Small Business
+C0394,Deepak Naidu,Chennai,South,Consumer
+C0395,Radha Raman,Hyderabad,South,Consumer
+C0396,Anil Gaikwad,Pune,West,Consumer
+C0397,Neha Kulkarni,Mumbai,West,Consumer
+C0398,Kavita Gupta,Delhi,North,Consumer
+C0399,Mahato Sales Corporation,Patna,East,Small Business
+C0400,Varghese Traders,Chennai,South,Small Business
+C0401,Choudhury Associates,Guwahati,East,Small Business
+C0402,Gaikwad Stores,Nagpur,West,Small Business
+C0403,Karan Gupta,Delhi,North,Consumer
+C0404,Kavita Mathur,Delhi,North,Consumer
+C0405,Shalini Patel,Ahmedabad,West,Consumer
+C0406,Shinde Electricals,Ahmedabad,West,Small Business
+C0407,Kavita Raman,Chennai,South,Consumer
+C0408,Rekha Chandran,Chennai,South,Consumer
+C0409,Sanjay Chauhan,Lucknow,North,Consumer
+C0410,Sharma Associates,Delhi,North,Small Business
+C0411,Ananya Dey,Kolkata,East,Consumer
+C0412,Abhishek Sharma,Jaipur,North,Consumer
+C0413,Smita Mishra,Kolkata,East,Consumer
+C0414,Nikhil Patil,Ahmedabad,West,Consumer
+C0415,Naveen Tomar,Raipur,Central,Consumer
+C0416,Patil Traders,Ahmedabad,West,Small Business
+C0417,Nandini Dey,Ranchi,East,Consumer
+C0418,Jadhav Enterprises,Mumbai,West,Small Business
+C0419,Pawar Services Pvt. Ltd.,Pune,West,Corporate
+C0420,Mathur Enterprises,Chandigarh,North,Small Business
+C0421,Suresh Patel,Indore,Central,Consumer
+C0422,Singh Agencies,Jaipur,North,Small Business
+C0423,Karan Sinha,Kolkata,East,Consumer
+C0424,Sangeeta Gupta,Dehradun,North,Consumer
+C0425,Jadhav Sales Corporation,Mumbai,West,Small Business
+C0426,Smita Roy,Bhubaneswar,East,Consumer
+C0427,Abhishek Chourasia,Indore,Central,Consumer
+C0428,Anita Singh,Delhi,North,Consumer
+C0429,Harish Pawar,Ahmedabad,West,Consumer
+C0430,Anita Mishra,Raipur,Central,Consumer
+C0431,Radha Roy,Ranchi,East,Consumer
+C0432,Agarwal Mart,Chandigarh,North,Small Business
+C0433,Mathur Mart,Dehradun,North,Small Business
+C0434,Sandeep Agarwal,Lucknow,North,Consumer
+C0435,Prasad Enterprises,Guwahati,East,Small Business
+C0436,Ashok Mukherjee,Patna,East,Consumer
+C0437,Joshi Services Pvt. Ltd.,Nagpur,West,Corporate
+C0438,Komal Dwivedi,Gwalior,Central,Consumer
+C0439,Bisht Realty Pvt. Ltd.,Jaipur,North,Corporate
+C0440,Deepa Hazarika,Bhubaneswar,East,Consumer
+C0441,Sneha Bhadoriya,Raipur,Central,Consumer
+C0442,Priya Patel,Indore,Central,Consumer
+C0443,Gaurav Nair,Kochi,South,Consumer
+C0444,Anjali Gaikwad,Ahmedabad,West,Consumer
+C0445,Sahu Agencies,Bhopal,Central,Small Business
+C0446,Kapoor Sales Corporation,Delhi,North,Small Business
+C0447,Kunal Hazarika,Bhubaneswar,East,Consumer
+C0448,Pooja Rathore,Chandigarh,North,Consumer
+C0449,Pawar Agencies,Mumbai,West,Small Business
+C0450,Ananya Subramanian,Bengaluru,South,Consumer
+C0451,Gaurav Thakkar,Ahmedabad,West,Consumer
+C0452,Priya Shinde,Mumbai,West,Consumer
+C0453,Karan Raman,Hyderabad,South,Consumer
+C0454,Anjali Panda,Ranchi,East,Consumer
+C0455,Anita Kulkarni,Mumbai,West,Consumer
+C0456,Mohit Thakkar,Ahmedabad,West,Consumer
+C0457,Vandana Chauhan,Delhi,North,Consumer
+C0458,Nandini Balan,Bengaluru,South,Consumer
+C0459,Desai Consulting Pvt. Ltd.,Mumbai,West,Corporate
+C0460,Choudhury Stores,Ranchi,East,Small Business
+C0461,Sunita Iyer,Chennai,South,Consumer
+C0462,Soni Agencies,Jabalpur,Central,Small Business
+C0463,Manoj Rathore,Delhi,North,Consumer
+C0464,Malhotra Furnishers,Lucknow,North,Small Business
+C0465,Vivek Rathore,Delhi,North,Consumer
+C0466,Tiwari Sales Corporation,Jaipur,North,Small Business
+C0467,Nandini Bhadoriya,Jabalpur,Central,Consumer
+C0468,Mehta Furnishers,Mumbai,West,Small Business
+C0469,Nikhil Bhatt,Mumbai,West,Consumer
+C0470,Sunita Bisht,Delhi,North,Consumer
+C0471,Patil Healthcare Pvt. Ltd.,Pune,West,Corporate
+C0472,Sharma Traders,Dehradun,North,Small Business
+C0473,Suresh Gowda,Hyderabad,South,Consumer
+C0474,Gaikwad Services Pvt. Ltd.,Mumbai,West,Corporate
+C0475,Harish Pillai,Kochi,South,Consumer
+C0476,Sinha Mart,Bhubaneswar,East,Small Business
+C0477,Varun Kapoor,Jaipur,North,Consumer
+C0478,Ananya Kurup,Bengaluru,South,Consumer
+C0479,Yadav Stores,Lucknow,North,Small Business
+C0480,Pranav Venkatesh,Bengaluru,South,Consumer
+C0481,Divya Iyer,Chennai,South,Consumer
+C0482,Thakkar Electricals,Ahmedabad,West,Small Business
+C0483,Sunita Behera,Kolkata,East,Consumer
+C0484,Prakash Gaikwad,Surat,West,Consumer
+C0485,Jha Agencies,Bhubaneswar,East,Small Business
+C0486,Sunil Agrawal,Jabalpur,Central,Consumer
+C0487,Mukherjee Logistics Pvt. Ltd.,Kolkata,East,Corporate
+C0488,Pawar Suppliers,Ahmedabad,West,Small Business
+C0489,Shah Enterprises,Ahmedabad,West,Small Business
+C0490,Abhishek Gupta,Lucknow,North,Consumer
+C0491,Jha Sales Corporation,Kolkata,East,Small Business
+C0492,Sunita Hegde,Chennai,South,Consumer
+C0493,Deepak Chatterjee,Guwahati,East,Consumer
+C0494,Amit Sahu,Bhopal,Central,Consumer
+C0495,Suresh Shinde,Nagpur,West,Consumer
+C0496,Payal Krishnan,Chennai,South,Consumer
+C0497,Sunita Das,Ranchi,East,Consumer
+C0498,Anil Krishnan,Bengaluru,South,Consumer
+C0499,Divya Yadav,Chandigarh,North,Consumer
+C0500,Roy Stores,Patna,East,Small Business

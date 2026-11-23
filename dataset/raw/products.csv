@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_cost,unit_price
+P001,Bluetooth Neckband,Electronics,1131.66,1299.00
+P002,True Wireless Earbuds,Electronics,1966.03,2499.00
+P003,Portable Bluetooth Speaker,Electronics,1565.45,1999.00
+P004,Fitness Smartwatch,Electronics,2912.11,3499.00
+P005,20000mAh Power Bank,Electronics,1321.89,1799.00
+P006,32-inch HD Smart TV,Electronics,11213.25,14999.00
+P007,43-inch 4K Smart TV,Electronics,22489.99,28999.00
+P008,2.1 Channel Soundbar,Electronics,5630.87,7499.00
+P009,10-inch Android Tablet,Electronics,14597.16,17999.00
+P010,AC1200 Wi-Fi Router,Electronics,1455.05,1899.00
+P011,4K Action Camera,Electronics,5362.92,6999.00
+P012,Noise Cancelling Headphones,Electronics,4556.80,5999.00
+P013,Smart Speaker,Electronics,2853.49,3499.00
+P014,2MP Wi-Fi Security Camera,Electronics,2067.47,2299.00
+P015,1TB Portable SSD,Electronics,6321.03,7999.00
+P016,15.6-inch Entry Laptop,Electronics,29941.72,38999.00
+P017,Wireless Gaming Controller,Electronics,2759.32,3299.00
+P018,Compact Digital Camera,Electronics,10210.55,12999.00
+P019,Portable Mini Projector,Electronics,8915.64,11999.00
+P020,6-inch E-Reader,Electronics,7192.52,8999.00
+P021,Non-Stick Cookware Set,Home & Kitchen,1939.73,2999.00
+P022,750W Mixer Grinder,Home & Kitchen,2433.22,3499.00
+P023,1.5L Electric Kettle,Home & Kitchen,749.99,1299.00
+P024,Induction Cooktop,Home & Kitchen,1453.05,2499.00
+P025,4L Air Fryer,Home & Kitchen,3868.69,5999.00
+P026,5L Pressure Cooker,Home & Kitchen,1254.89,1899.00
+P027,Steel Water Bottle 1L,Home & Kitchen,357.61,599.00
+P028,Insulated Lunch Box Set,Home & Kitchen,580.83,799.00
+P029,20L Microwave Oven,Home & Kitchen,5584.47,7499.00
+P030,24-Piece Dinner Set,Home & Kitchen,2534.53,2799.00
+P031,RO Water Purifier,Home & Kitchen,6698.63,11999.00
+P032,1200mm Ceiling Fan,Home & Kitchen,1506.97,2499.00
+P033,Fan Room Heater,Home & Kitchen,1561.56,2199.00
+P034,Double Bedsheet Cotton,Home & Kitchen,798.28,1199.00
+P035,Storage Container Set,Home & Kitchen,685.64,999.00
+P036,Sandwich Maker,Home & Kitchen,1155.66,1599.00
+P037,4-Slice Pop-up Toaster,Home & Kitchen,1665.03,1799.00
+P038,Kitchen Knife Set,Home & Kitchen,1019.18,1099.00
+P039,Steam Iron 1400W,Home & Kitchen,1228.78,1899.00
+P040,Hand Blender 300W,Home & Kitchen,892.31,1399.00
+P041,A4 Copier Paper Ream 500 Sheets,Office Supplies,206.42,349.00
+P042,Ball Pen Box of 50,Office Supplies,199.08,299.00
+P043,Gel Pen Pack of 10,Office Supplies,132.96,199.00
+P044,Spiral Notebook Pack of 6,Office Supplies,263.19,449.00
+P045,Heavy Duty Stapler,Office Supplies,231.34,349.00
+P046,Whiteboard 2x3 ft,Office Supplies,1157.50,1499.00
+P047,Whiteboard Markers Pack of 12,Office Supplies,267.50,399.00
+P048,File Folders Pack of 20,Office Supplies,417.69,549.00
+P049,Desk Organizer,Office Supplies,442.00,799.00
+P050,Paper Shredder,Office Supplies,6036.44,7999.00
+P051,Laser Toner Cartridge,Office Supplies,2428.17,4299.00
+P052,Inkjet Ink Cartridge,Office Supplies,785.72,1299.00
+P053,Thermal Receipt Rolls Pack of 50,Office Supplies,879.83,1499.00
+P054,12-Digit Desktop Calculator,Office Supplies,331.25,549.00
+P055,Sticky Notes Pack of 12,Office Supplies,271.76,349.00
+P056,Highlighter Set of 10,Office Supplies,212.26,299.00
+P057,A4 Laminating Machine,Office Supplies,2227.62,3499.00
+P058,Label Printer,Office Supplies,3009.52,4999.00
+P059,Heavy Duty Hole Puncher,Office Supplies,247.27,449.00
+P060,Portable Document Scanner,Office Supplies,4517.29,6999.00
+P061,Ergonomic Mesh Office Chair,Furniture,7382.34,7999.00
+P062,Executive High-Back Chair,Furniture,12081.40,12999.00
+P063,Computer Table,Furniture,4085.50,4999.00
+P064,Study Desk with Drawer,Furniture,4570.62,6499.00
+P065,5-Tier Bookshelf,Furniture,3006.90,4299.00
+P066,2-Door Steel Almirah,Furniture,8530.91,11999.00
+P067,4-Drawer Filing Cabinet,Furniture,6159.58,8999.00
+P068,8-Seater Conference Table,Furniture,20031.88,24999.00
+P069,Visitor Chair Set of 2,Furniture,2805.96,3999.00
+P070,3-Seater Fabric Sofa,Furniture,13731.45,21999.00
+P071,Recliner Chair,Furniture,11626.40,14999.00
+P072,Queen Bed with Storage,Furniture,14517.47,19999.00
+P073,3-Door Wardrobe,Furniture,12411.61,17999.00
+P074,TV Unit,Furniture,5232.40,6999.00
+P075,Shoe Rack,Furniture,1539.53,1999.00
+P076,4-Seater Dining Table,Furniture,9905.32,12999.00
+P077,Wooden Coffee Table,Furniture,3156.01,3499.00
+P078,Reception Desk,Furniture,14467.99,15999.00
+P079,Folding Study Table,Furniture,1493.27,1999.00
+P080,XXL Bean Bag,Furniture,1297.16,1899.00
+P081,Laptop Backpack 15.6-inch,Accessories,932.90,1499.00
+P082,USB-C Cable 1m,Accessories,184.61,399.00
+P083,33W Fast Charger,Accessories,473.86,899.00
+P084,Wireless Mouse,Accessories,356.32,699.00
+P085,Mechanical Keyboard,Accessories,1223.60,2999.00
+P086,Wireless Keyboard-Mouse Combo,Accessories,566.40,1299.00
+P087,Laptop Sleeve 15.6-inch,Accessories,406.59,699.00
+P088,HDMI Cable 2m,Accessories,280.96,449.00
+P089,4-Port USB Hub,Accessories,413.37,799.00
+P090,Full HD Webcam,Accessories,979.77,1999.00
+P091,Tempered Glass Screen Guard,Accessories,138.64,299.00
+P092,Adjustable Phone Stand,Accessories,210.22,499.00
+P093,Aluminium Laptop Stand,Accessories,711.91,1499.00
+P094,XL Mouse Pad,Accessories,306.20,599.00
+P095,Wired Earphones,Accessories,270.66,499.00
+P096,64GB Pen Drive,Accessories,247.09,599.00
+P097,128GB MicroSD Card,Accessories,404.41,899.00
+P098,Bluetooth USB Adapter,Accessories,197.87,349.00
+P099,6-Socket Surge Protector,Accessories,626.03,999.00
+P100,Car Phone Mount,Accessories,285.81,699.00
